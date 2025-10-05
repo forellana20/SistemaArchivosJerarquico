@@ -39,11 +39,11 @@ Operación	Complejidad
 
 📋 Consideraciones Importantes
 ⚠️ Puntos Clave a Tener en Cuenta:
-Factor de Balance: Siempre debe estar entre -1, 0, y 1
-Rotaciones: Son fundamentales para mantener el balance del árbol
-Altura del Árbol: Se calcula recursivamente y se actualiza después de cada operación
-Casos de Rotación: Identificar correctamente cuándo aplicar cada tipo de rotación
-Memoria: Gestionar correctamente la asignación y liberación de memoria
+- Factor de Balance: Siempre debe estar entre -1, 0, y 1
+- Rotaciones: Son fundamentales para mantener el balance del árbol
+- Altura del Árbol: Se calcula recursivamente y se actualiza después de cada operación
+- Casos de Rotación: Identificar correctamente cuándo aplicar cada tipo de rotación
+- Memoria: Gestionar correctamente la asignación y liberación de memoria
 
 🔍 Casos Especiales:
 Inserción en árbol vacío

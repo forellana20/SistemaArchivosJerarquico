@@ -2,20 +2,21 @@
 
 👨‍🎓 Información del Estudiante
 Campo	Información
-Alumno	Fernando Wilfredo Orellana Rodriguez
-Universidad	Universidad Don Bosco
-Materia	Programación con Estructura de Datos
-Desafío	Desafío #1 - Árboles AVL
+- Alumno	Fernando Wilfredo Orellana Rodriguez
+- Universidad	Universidad Don Bosco
+- Materia	Programación con Estructura de Datos
+- Desafío	Desafío #1 - Árboles AVL
+
 🎯 Descripción del Desafío
 
 Este proyecto implementa una estructura de datos Árbol AVL, un tipo de árbol binario de búsqueda auto-balanceado que mantiene su altura balanceada automáticamente para garantizar operaciones eficientes.
 
 ⚡ Características Principales
-✅ Auto-balanceado: Mantiene automáticamente el balance del árbol
-✅ Operaciones eficientes: O(log n) para inserción, eliminación y búsqueda
-✅ Rotaciones: Implementa rotaciones simples y dobles para mantener el balance
-✅ Factor de balance: Calcula y mantiene el factor de balance de cada nodo
-✅ Recorridos: Implementa recorridos in-order, pre-order y post-orden
+-✅ Auto-balanceado: Mantiene automáticamente el balance del árbol
+-✅ Operaciones eficientes: O(log n) para inserción, eliminación y búsqueda
+-✅ Rotaciones: Implementa rotaciones simples y dobles para mantener el balance
+-✅ Factor de balance: Calcula y mantiene el factor de balance de cada nodo
+-✅ Recorridos: Implementa recorridos in-order, pre-order y post-orden
 
 🔧 Operaciones Implementadas
 Operaciones Básicas

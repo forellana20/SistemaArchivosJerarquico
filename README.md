@@ -61,6 +61,6 @@ Operación	Complejidad
 
 Este proyecto forma parte del aprendizaje de estructuras de datos avanzadas, enfocándose en la comprensión de algoritmos de auto-balanceado y su implementación práctica.
 
-Universidad Don Bosco | Programación con Estructura de Datos | 2024
+Universidad Don Bosco | Programación con Estructura de Datos | 2025
 
 Desarrollado con 💻 y ☕ por Fernando Wilfredo Orellana Rodriguez

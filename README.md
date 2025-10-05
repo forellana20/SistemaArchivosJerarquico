@@ -46,10 +46,10 @@ Operación	Complejidad
 - Memoria: Gestionar correctamente la asignación y liberación de memoria
 
 🔍 Casos Especiales:
-Inserción en árbol vacío
-Eliminación del nodo raíz
-Eliminación de nodos con uno o dos hijos
-Manejo de duplicados (según implementación)
+- Inserción en árbol vacío
+- Eliminación del nodo raíz
+- Eliminación de nodos con uno o dos hijos
+- Manejo de duplicados (según implementación)
 
 🧪 Testing:
 - Probar con diferentes secuencias de inserción

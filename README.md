@@ -8,7 +8,11 @@ Materia	Programación con Estructura de Datos
 Desafío	Desafío #1 - Árboles AVL
 🎯 Descripción del Desafío
 
-Este proyecto implementa una estructura de datos Árbol AVL, un tipo de árbol binario de búsqueda auto-balanceado que mantiene su altura balanceada automáticamente para garantizar operaciones eficientes.
+Este proyecto implementa una estructura de datos Árbol AVL (Adelson-Velsky y Landis), un tipo de árbol binario de búsqueda auto-balanceado que mantiene su altura balanceada automáticamente para garantizar operaciones eficientes.
+
+¿Qué es un Árbol AVL?
+
+Un árbol AVL es un árbol binario de búsqueda donde las alturas de los dos subárboles de cualquier nodo difieren en máximo una unidad. Esta propiedad garantiza que el árbol permanezca balanceado, proporcionando un rendimiento óptimo en las operaciones de búsqueda, inserción y eliminación.
 
 ⚡ Características Principales
 ✅ Auto-balanceado: Mantiene automáticamente el balance del árbol
@@ -47,16 +51,19 @@ Rotaciones: Son fundamentales para mantener el balance del árbol
 Altura del Árbol: Se calcula recursivamente y se actualiza después de cada operación
 Casos de Rotación: Identificar correctamente cuándo aplicar cada tipo de rotación
 Memoria: Gestionar correctamente la asignación y liberación de memoria
+
 🔍 Casos Especiales:
 Inserción en árbol vacío
 Eliminación del nodo raíz
 Eliminación de nodos con uno o dos hijos
 Manejo de duplicados (según implementación)
+
 🧪 Testing:
-Probar con diferentes secuencias de inserción
-Verificar el balance después de cada operación
-Validar los recorridos del árbol
-Comprobar la correcta eliminación de nodos
+- Probar con diferentes secuencias de inserción
+- Verificar el balance después de cada operación
+- Validar los recorridos del árbol
+- Comprobar la correcta eliminación de nodos
+
 📚 Recursos Adicionales
 Documentación sobre Árboles AVL
 Visualización de Árboles AVL
